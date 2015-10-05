@@ -3,7 +3,7 @@ Find the path from bottom-right corner to top-left corner in maze.
 #Example
 run program as  
 `$ python maze_pathfinder.py`  
-then Input thedata as follows:    
+then Input the data as follows:    
 13 9  
 1111101110111   
 0010001000001    
@@ -24,4 +24,4 @@ and the program will output as
 [False, False, True, False, False, False, False, False, False, False, False, False, False]  
 [False, False, True, False, False, False, False, False, False, False, False, False, False]  
 [False, False, True, True, True, True, True, True, True, True, True, True, True]    
-**True** denote the path.    
+**True** denote the path from bottom-right to top-left.      
